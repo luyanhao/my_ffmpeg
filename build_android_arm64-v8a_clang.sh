@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export NDK=~/Android/android-ndk-r20b #这里配置先你的 NDK 路径
+export NDK=~/Android/Sdk/ndk/20.0.5594570 #这里配置先你的 NDK 路径
 TOOLCHAIN=$NDK/toolchains/llvm/prebuilt/linux-x86_64
 
 
